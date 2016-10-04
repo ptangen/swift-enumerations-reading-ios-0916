@@ -15,7 +15,6 @@ playerDidMove("dwn")
 playerDidMove("Up")
 
 
-
 enum Direction {
     case up
     case down
